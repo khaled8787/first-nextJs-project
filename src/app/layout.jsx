@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Dev-Story",
+  title: "My Awesome Store",
   description: "An app for showing developer story around the world",
 };
 
