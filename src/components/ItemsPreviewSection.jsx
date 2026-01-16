@@ -8,7 +8,7 @@ export default function ItemsPreviewSection() {
   const [items, setItems] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/items") // Express API
+    fetch("/api/items") // Express API
       .then(res => res.json())
       .then(data => setItems(data))
       .catch(err => console.error(err));
